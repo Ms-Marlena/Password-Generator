@@ -12,5 +12,11 @@ Go to the website in a regular browser.
 ## Usage
 Click the "Generate Password" button, answer the prompts, and see your new password!
 
-    ![alt text](assets/images/screenshot.png)
+    ![Screenshot](assets/images/Screenshot%20(29).png)
+    ![Screenshot](assets/images/Screenshot%20(30).png)
+    ![Screenshot](assets/images/Screenshot%20(31).png)
+    ![Screenshot](assets/images/Screenshot%20(32).png)
+    ![Screenshot](assets/images/Screenshot%20(33).png)
  
+ 
+
